@@ -18,7 +18,7 @@ Modular Architecture: Built with a clean separation of concerns (Frontend UI vs.
 
 ![Project Screenshot](image.png)
 
-📂 Project Structure
+## 📂 Project Structure
 
 The project follows a professional modular architecture:
 
