@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+gtts
+textstat
+python-dotenv
+pandas
