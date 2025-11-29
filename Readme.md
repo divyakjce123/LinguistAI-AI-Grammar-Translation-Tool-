@@ -57,14 +57,12 @@ LinguistAI/
 Step 1: Clone the Repository
 Open your terminal/command prompt and run:
 
-Bash
 git clone [https://github.com/your-username/LinguistAI.git](https://github.com/your-username/LinguistAI.git)
 cd LinguistAI
 
 Step 2: Install Dependencies
 Install the required Python packages:
 
-Bash
 pip install -r requirements.txt
 
 Step 3: Configure Security
@@ -77,7 +75,6 @@ GEMINI_API_KEY=your_actual_api_key_here
 Step 4: Run the Application
 Execute the following command to start the Streamlit server:
 
-Bash
 streamlit run app.py
 
 The application will automatically open in your default web browser (usually at http://localhost:8501).
